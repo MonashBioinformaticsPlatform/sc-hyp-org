@@ -3,7 +3,7 @@ This repository contains detailed code for the analysis of scRNAseq data
 
 ![](images/summary.png)
 
----
+
 # Analysis
  
 * [Quality and Preprocessing](Analysis/1.QC_and_Preprocessing.md)  
@@ -28,7 +28,6 @@ This repository contains detailed code for the analysis of scRNAseq data
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [13_Endotelial Pseudobulk](Analysis/4.Pseudobulk/13_EndotelialPseudobulk.md)  
 
 # Interactive APP
----
 
 <div align="center">
 
