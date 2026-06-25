@@ -29,7 +29,7 @@ This repository contains detailed code for the analysis of scRNAseq data
 
 # Interactive APP
 
-<div align="center">
+
 
 ### Try the interactive app
 
@@ -37,4 +37,4 @@ Explore the hypoxia kidney organoid  single cell data in your browser
 
 [![Launch App](https://img.shields.io/badge/🚀_Launch_App-1D9E75?style=for-the-badge)](https://bioinformatics.erc.monash.edu/apps/hypoxia-kidney-organoid/)
 
-</div>
+
