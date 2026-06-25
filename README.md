@@ -42,7 +42,7 @@ This repository contains detailed code for the analysis of scRNAseq data
 <br>
 
 <a href="https://bioinformatics.erc.monash.edu/apps/hypoxia-kidney-organoid/">
-  <img src="https://img.shields.io/badge/🚀%20Launch%20App-1D9E75?style=for-the-badge&logoColor=white&labelColor=085041" height="60"/>
+  <img src="https://img.shields.io/badge/🚀%20Launch%20App-1D9E75?style=for-the-badge&logoColor=white&labelColor=085041" height="80"/>
 </a>
 
 <br><br>
