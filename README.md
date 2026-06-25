@@ -10,7 +10,7 @@ This repository contains detailed code for the analysis of scRNAseq data
 * [Clustering and Cell Classification](Analysis/2.Clustering_and_Cell_Classification.md)   
 * [Cell Proportions Analysis](Analysis/3.Cell_Proportions_Analysis.md)  
 * [Deconvolution Analysis](Analysis/5.Deconvolution.md)   
-* Pseudobulk Differential Expression
+* Pseudobulk Differential Expression     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [0_Stroma Pseudobulk](Analysis/4.Pseudobulk/0_StromaPseudobulk.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [1_Stroma Pseudobulk](Analysis/4.Pseudobulk/1_StromaPseudobulk.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [2_Stroma Pseudobulk](Analysis/4.Pseudobulk/2_StromaPseudobulk.md)  
