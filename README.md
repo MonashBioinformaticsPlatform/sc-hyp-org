@@ -9,7 +9,6 @@ This repository contains detailed code for the analysis of scRNAseq data
 * [Quality and Preprocessing](Analysis/1.QC_and_Preprocessing.md)  
 * [Clustering and Cell Classification](Analysis/2.Clustering_and_Cell_Classification.md)   
 * [Cell Proportions Analysis](Analysis/3.Cell_Proportions_Analysis.md)  
-* [Clusters Markers Interactive](https://bioinformatics3.erc.monash.edu/rsconnect/content/349/)
 * [Deconvolution Analysis](Analysis/5.Deconvolution.md)   
 * [Pseudobulk Differential Expression](Analysis/4.Pseudobulk/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [0_Stroma Pseudobulk](Analysis/4.Pseudobulk/0_StromaPseudobulk.md)  
