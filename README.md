@@ -29,8 +29,6 @@ This repository contains detailed code for the analysis of scRNAseq data
 
 # Interactive APP
 
----
-
 <div align="center">
 
 <br>
