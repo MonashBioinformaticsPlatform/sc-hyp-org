@@ -26,5 +26,14 @@ This repository contains detailed code for the analysis of scRNAseq data
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [11_Cellular_Stress Pseudobulk](Analysis/4.Pseudobulk/11_Cellular_StressPseudobulk.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [12_Proximal_Tubule Pseudobulk](Analysis/4.Pseudobulk/12_Proximal_TubulePseudobulk.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [13_Endotelial Pseudobulk](Analysis/4.Pseudobulk/13_EndotelialPseudobulk.md)  
+---
 
-[**Please visit our Interactive APP**](https://bioinformatics3.erc.monash.edu/rsconnect/content/541/)
+<div align="center">
+
+### 🧬 Try the interactive app
+
+Explore the hypoxia kidney organoid data in your browser
+
+[![Launch App](https://img.shields.io/badge/🚀_Launch_App-1D9E75?style=for-the-badge)](https://bioinformatics.erc.monash.edu/apps/hypoxia-kidney-organoid/)
+
+</div>
